@@ -3,8 +3,6 @@
 💻 Data enthusiast | Machine Learning | Python | SQL  
 📊 Passionate about analytics and visual storytelling  
 
-### ⚙ Tools & Technologies
-
 ### ⚙️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
