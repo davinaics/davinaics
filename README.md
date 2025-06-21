@@ -2,7 +2,7 @@
 
 💻 Data enthusiast | Machine Learning | Python | SQL  
 📊 Passionate about analytics and visual storytelling  
-
+You can see my Dashboard Analytics on [Tableau]([https://linkedin.com/in/namamu](https://public.tableau.com/app/profile/davina.icasia.edria.putri/vizzes))
 ### ⚙️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
