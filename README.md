@@ -5,14 +5,14 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
 - :school: I am an `IT Student` at [Pancasila University](https://univpancasila.ac.id/)  
-- :mortar_board: `Alumna MBKM Batch 7` Independent Study at [PT Mitra Talenta Grup (Celerates)](https://celerates.co.id/).  
+- :mortar_board: `Alumna MBKM Batch 7` Independent Study at [PT Mitra Talenta Grup (Celerates)](https://celerates.co.id/)
 - :bar_chart: Passionate about `Data Science`, `Data Analytics`, `Machine Learning`, and `Artificial Intelligence`
 - :computer: I’m currently deepening my skills in `Python` and `SQL`
 - :boom: This is [MY RESUME](https://drive.google.com/drive/u/0/folders/1Jq-qAaj7Ju_fQAIO1O28ijIXiOZ-Dw2q)
