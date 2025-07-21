@@ -12,7 +12,7 @@
 <br><br>
 
 - :school: I am an `IT Student` at [Pancasila University](https://univpancasila.ac.id/)  
-- :mortar_board: `Alumni MBKM Batch 7` Studi Independen at ([PT Mitra Talenta Grup (Celerates)](https://celerates.co.id/)).  
+- :mortar_board: `Alumni MBKM Batch 7` Studi Independen at [PT Mitra Talenta Grup (Celerates)](https://celerates.co.id/).  
 - :bar_chart: Passionate about `Data Science`, `Machine Learning`, and `Artificial Intelligence`.  
 - :student: I’m currently deepening my skills in `Python` and `SQL`.
 - ❤️ This is [MY RESUME](https://drive.google.com/drive/u/0/folders/1Jq-qAaj7Ju_fQAIO1O28ijIXiOZ-Dw2q).  
