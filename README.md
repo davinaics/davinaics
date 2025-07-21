@@ -94,15 +94,6 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davinaics&theme=tokyonight_duo" alt="davinaics" />
-</p>
-
-</details>
-
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
@@ -120,14 +111,6 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
-<p align="center">
-  <a href="https://github.com/davinaics/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=davinaics&theme=github" alt="davinaics Activity Graph"/>
-  </a>
-</p>
-
-</br></br>
-
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align="center">
