@@ -1,9 +1,12 @@
 name: Generate Snake Contribution Graph
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # tiap hari jam 00:00 UTC
-  workflow_dispatch:
+  workflow_dispatch:  # ini supaya kamu bisa run manual dari UI
+  push:               # ini supaya otomatis jalan saat kamu commit/push
+    branches:
+      - main
+  schedule:           # ini supaya dia jalan otomatis tiap hari
+    - cron: "0 0 * * *"
 
 jobs:
   generate:
