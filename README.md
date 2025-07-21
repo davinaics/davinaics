@@ -56,7 +56,7 @@
 
 <p align="center">
   &emsp;
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg style=plastic&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=plastic&logo=google-sheets&logoColor=white"></a>
   &emsp;
