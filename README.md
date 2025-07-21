@@ -108,14 +108,14 @@
 
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<details>
+<summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
-## 🐍 A Snake Eating my Contributions Graph
-	
+<h4>🐍 A Snake Eating my Contributions Graph</h4>
+
 <p align="center">
-	<img src="https://github.com/davinaics/davinaics/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/davinaics/davinaics/blob/main/dist/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
 </p>
 
 </details>
-
