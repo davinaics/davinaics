@@ -44,11 +44,11 @@
 <p align="center"> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
 </p>
 
@@ -56,7 +56,7 @@
 
 <p align="center">
   &emsp;
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg style=plastic&logo=github&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=plastic&logo=google-sheets&logoColor=white"></a>
   &emsp;
