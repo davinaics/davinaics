@@ -11,10 +11,10 @@
 
 <br><br>
 
-- :school: I am an `IT Student` at [Pancasila University](https://univpancasila.ac.id/)  
+- :school: I'm an `IT Student` at [Pancasila University](https://univpancasila.ac.id/)  
 - :mortar_board: `Alumna MBKM Batch 7` Independent Study at [PT Mitra Talenta Grup (Celerates)](https://celerates.co.id/)
 - :bar_chart: Passionate about `Data Science`, `Data Analytics`, `Machine Learning`, and `Artificial Intelligence`
-- :computer: I’m currently deepening my skills in `Python` and `SQL`
+- :computer: I'm currently deepening my skills in `Python` and `SQL`
 - :boom: This is [MY RESUME](https://drive.google.com/drive/u/0/folders/1Jq-qAaj7Ju_fQAIO1O28ijIXiOZ-Dw2q)
 <br>
 
