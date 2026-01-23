@@ -87,7 +87,7 @@
   &emsp;
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=white"/>
   &emsp;
-  <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4?style=plastic&logo=looker&logoColor=white"/>
+  <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4?style=plastic&logo=looker&logoColor=white"/> &emsp;
   <img alt="Pentaho Data Integration" src="https://img.shields.io/badge/Pentaho%20Data%20Integration-0063a6?style=plastic&logo=databricks&logoColor=white"/>
 </p>
 
