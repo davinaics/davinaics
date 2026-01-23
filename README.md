@@ -72,7 +72,7 @@
   &emsp;
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=plastic&logo=google-sheets&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=plastic&logo=microsoft-excel&logoColor=white"/></a>
+  <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white"/></a>
   &emsp;
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/Mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/></a>
   &emsp;
@@ -86,7 +86,7 @@
   &emsp;
   <a href="#"><img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4.svg?style=plastic&logo=looker&logoColor=white"/></a>
   &emsp;
-  <a href="#"><img alt="Pentaho Data Integration" src="https://img.shields.io/badge/Pentaho%20Data%20Integration-0063a6.svg?style=plastic&logo=data&logoColor=white"/></a>
+  <a href="#"><img alt="Pentaho Data Integration" src="https://img.shields.io/badge/Pentaho%20Data%20Integration-0063a6?style=plastic&logo=databricks&logoColor=white"/></a>
 </p>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> IDEs
