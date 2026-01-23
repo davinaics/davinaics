@@ -68,25 +68,27 @@
 
 <p align="center">
   &emsp;
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
   &emsp;
-  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=plastic&logo=google-sheets&logoColor=white"></a>
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white"/>
   &emsp;
-  <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white"/></a>
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white"/>
   &emsp;
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/Mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/></a>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
   &emsp;
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"/></a>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white"/>
   &emsp;
-  <a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372923.svg?style=plastic&logo=dbeaver&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372923?style=plastic&logo=dbeaver&logoColor=white"/>
   &emsp;
-  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=plastic&logo=tableau&logoColor=white"/></a>
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white"/>
   &emsp;
-  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=plastic&logo=power-bi&logoColor=black"/></a>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=white"/>
   &emsp;
-  <a href="#"><img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4.svg?style=plastic&logo=looker&logoColor=white"/></a>
-  &emsp;
-  <a href="#"><img alt="Pentaho Data Integration" src="https://img.shields.io/badge/Pentaho%20Data%20Integration-0063a6?style=plastic&logo=databricks&logoColor=white"/></a>
+  <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4?style=plastic&logo=looker&logoColor=white"/>
+  <img alt="Pentaho Data Integration" src="https://img.shields.io/badge/Pentaho%20Data%20Integration-0063a6?style=plastic&logo=databricks&logoColor=white"/>
 </p>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> IDEs
