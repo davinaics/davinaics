@@ -13,6 +13,7 @@
 
 - :school: I'm an `IT Student` at [Pancasila University](https://univpancasila.ac.id/)  
 - :mortar_board: `Alumni MBKM Batch 7` Independent Study at [PT Mitra Talenta Grup (Celerates)](https://celerates.co.id/)
+- :briefcase: `Ex Intern` at **M-Knows Consulting** as `Data Scientist & AI Engineer`
 - :bar_chart: Passionate about `Data Science`, `Data Analytics`, `Machine/Deep Learning`, and `Artificial Intelligence`
 - :computer: I'm currently deepening my skills in `Python` and `SQL`
 <br>
