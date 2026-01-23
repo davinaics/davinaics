@@ -110,30 +110,39 @@
 </p>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Github Stats
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> GitHub Stats
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+### 💻 GitHub Profile Stats
 
 ----
 <p align="center">
   <a href="https://github.com/davinaics/github-readme-stats">
-    <img alt="davinaics's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davinaics&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    <img 
+      alt="davinaics's Github Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=davinaics&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" 
+      height="230px"
+    />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davinaics&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="davinaics" height="230px"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=davinaics&langs_count=10&show_icons=true&locale=en&theme=tokyonight" 
+    alt="davinaics" 
+    height="230px"
+  />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-</details>
+---
 
-<details>
-<summary><h3>⚡ Recent GitHub Activity</h3></summary>
+### ⚡ Recent GitHub Activity
 
-----
-<h4>🐍 A Snake Eating my Contributions Graph</h4>
+<h4 align="center">🐍 A Snake Eating my Contributions Graph</h4>
 
 <p align="center">
-  <img src="https://github.com/davinaics/davinaics/blob/main/dist/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  <img 
+    src="https://github.com/davinaics/davinaics/blob/main/dist/github-contribution-grid-snake.svg" 
+    alt="github contribution grid snake animation"
+  />
 </p>
 
 </details>
