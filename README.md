@@ -93,11 +93,9 @@
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> IDEs
 
-<p align="center">
-  &emsp;
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=plastic&logo=googlecolab&logoColor=white"></a>
+<p align="center"> &emsp;
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=plastic&logo=vscode&logoColor=white"/> &emsp;
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white"/>
 </p>
 
 <br> 
