@@ -72,11 +72,13 @@
   &emsp;
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=plastic&logo=google-sheets&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=plastic&logo=microsoft-excel&logoColor=white"/></a>
+  <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=plastic&logo=microsoft-excel&logoColor=white"/></a>
   &emsp;
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/Mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/></a>
   &emsp;
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"/></a>
+  &emsp;
+  <a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372923.svg?style=plastic&logo=dbeaver&logoColor=white"/></a>
   &emsp;
   <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=plastic&logo=tableau&logoColor=white"/></a>
   &emsp;
