@@ -26,10 +26,10 @@
   <a href="https://www.linkedin.com/in/davinaicasia" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&emsp;
-  <a href="https://www.instagram.com/davicasia" style="text-decoration:none">
+  <a href="https://www.instagram.com/davinaedria" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>&emsp;
-  <a href="https://www.tiktok.com/@daviedria?_t=ZS-8yDNkyO8qpU&_r=1" style="text-decoration:none">
+  <a href="https://www.tiktok.com/@davinaedria?_t=ZS-8yDNkyO8qpU&_r=1" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Tiktok-%23181717.svg?style=plastic&logo=tiktok&logoColor=white" alt="Tiktok"/>
   </a>&emsp;
 </p>
