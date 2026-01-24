@@ -23,9 +23,6 @@
   <a href="https://github.com/davinaics" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
   </a>&emsp;
-  <a href="https://wa.me/6281296721258" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-  </a>&emsp;
   <a href="https://www.linkedin.com/in/davinaicasia" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&emsp;
