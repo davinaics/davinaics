@@ -103,22 +103,20 @@
 
 ### 💻 GitHub Profile Stats
 
-----
 <p align="center">
-  <a href="https://github.com/davinaics/github-readme-stats">
-    <img 
-      alt="davinaics's Github Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=davinaics&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" 
-      height="230px"
-    />
-  </a>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=davinaics&langs_count=10&show_icons=true&locale=en&theme=tokyonight" 
-    alt="davinaics" 
+    src="https://github-readme-stats.vercel.app/api?username=davinaics&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=86400" 
     height="230px"
   />
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinaics&layout=compact&theme=tokyonight&cache_seconds=86400" 
+    height="230px"
+  />
+</p>
+
+<p align="center">
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 ---
