@@ -43,8 +43,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
- <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img alt="SQL" src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=sql&logoColor=white">
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?style=plastic&logo=sqlite&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
