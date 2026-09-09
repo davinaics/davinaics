@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Davina Icasia Edria Putri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=0202F5&size=55&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;Data+Analyst;Data+Enthusiast" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=29A2D8&size=55&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;Data+Analyst;Data+Enthusiast" alt="Typing SVG">
 </a>
 </p>
 
@@ -16,7 +16,7 @@
 - :school: I'm a Fresh Graduate `IT Student` at [Pancasila University](https://univpancasila.ac.id/)
 - :mortar_board: `Alumni MBKM Batch 7` Independent Study at [PT Mitra Talenta Grup (Celerates)](https://celerates.co.id/)
 - :trophy: `1st Place Champion` of `Indonesian Viz Idol 2025` organized by [Zenith Academy](https://www.instagram.com/zenithacademy.id/)
-- :bar_chart: Passionate about `Data Science`, `Data Analytics`, and `Machine/Deep Learning`
+- :bar_chart: Passionate about `Data Science`, `Data Analytics`, and `Machine Learning`
 - :computer: I'm currently deepening my skills in `Python` and `SQL`
 <br>
 
