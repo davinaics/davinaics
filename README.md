@@ -35,12 +35,16 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming & Query
 
 <p align="center"> 
   &emsp;
   <a href="https://www.w3schools.com/python/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+  &emsp;
+ <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=sql&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
