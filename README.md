@@ -98,7 +98,7 @@
 
 ---
 
-### ⚡ Recent GitHub Activity
+## ⚡ Recent GitHub Activity
 
 <h4 align="center">🐍 A Snake Eating my Contributions Graph</h4>
 
