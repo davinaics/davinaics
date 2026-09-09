@@ -17,7 +17,7 @@
 - :mortar_board: `Alumni MBKM Batch 7` Independent Study at [PT Mitra Talenta Grup (Celerates)](https://celerates.co.id/)
 - :briefcase: `Ex Intern` as `Data Scientist & AI Engineer` at [Kampus Gratis](https://kampusgratis.id/)
 - :trophy: `1st Place Champion` of `Indonesian Viz Idol 2025` organized by [Zenith Academy](https://www.instagram.com/zenithacademy.id/)
-- :bar_chart: Passionate about `Data Science`, `Data Analytics`, `Machine/Deep Learning`, and `Artificial Intelligence`
+- :bar_chart: Passionate about `Data Science`, `Data Analytics`, and `Machine/Deep Learning`
 - :computer: I'm currently deepening my skills in `Python` and `SQL`
 <br>
 
