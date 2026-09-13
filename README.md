@@ -15,7 +15,7 @@
 
 - :school: I'm a Fresh Graduate `IT Student` at [Pancasila University](https://univpancasila.ac.id/)
 - :mortar_board: `Alumni MBKM Batch 7` Independent Study at [PT Mitra Talenta Grup (Celerates)](https://celerates.co.id/)
-- :trophy: `1st Place Champion` of `Indonesian Viz Idol 2025` organized by [Zenith Academy](https://www.instagram.com/zenithacademy.id/)
+- :trophy: `1st Place Champion` of `Indonesian Viz Idol 2025` issued by [Zenith Academy](https://www.instagram.com/zenithacademy.id/)
 - :bar_chart: Passionate about `Data Science`, `Data Analytics`, and `Machine Learning`
 - :computer: I'm currently deepening my skills in `Python` and `SQL`
 <br>
